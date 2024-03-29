@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Developer
 -------------------
 
-As a front-end developer, my superpower hapeens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.
+As a front-end web developer, my superpower hapeens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My web portfolio](http://airrondev.github.io/porfolio/#)
